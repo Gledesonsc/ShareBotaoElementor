@@ -2,7 +2,7 @@ function shareUrl() {
   const shareData = {
       title: 'Título do Compartilhamento',
       text: 'Texto do Compartilhamento',
-      url: 'https://adalinks.vercel.app',
+      url: 'https://share-botao-elementor.vercel.app',
   };
 
   if (navigator.share) {
