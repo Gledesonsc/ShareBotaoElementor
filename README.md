@@ -64,6 +64,6 @@ Agora, você precisará incorporar o script personalizado para habilitar a funci
 ```
 
  &nbsp;
-Insira este script na seção apropriada do seu site, como no arquivo de rodapé (footer) ou através de um plugin de scripts personalizados.
+Insira este script na seção apropriada do seu site, como no arquivo de rodapé (footer) ou através de um plugin de scripts personalizados ou Widget Html.
  &nbsp;
  &nbsp;
